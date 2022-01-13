@@ -5,7 +5,7 @@
 </a>
 <pre>
 @font-face {
-    font-family: 'hana';
+    font-family: 'Hana';
     font-weight: 300;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/hana/HanaLight.eot');
@@ -16,7 +16,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'hana';
+    font-family: 'Hana';
     font-weight: 500;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/hana/HanaMedium.eot');
@@ -27,7 +27,7 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'hana';
+    font-family: 'Hana';
     font-weight: 700;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/hana/HanaBold.eot');
